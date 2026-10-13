@@ -1,0 +1,83 @@
+program_slug,day_number,day_name,day_focus,exercise_slug,exercise_name,sets,reps,reps_kind,reps_min,reps_max,per_side,rest_seconds
+bodyweight-anywhere,1,Upper Push,"Chest, Shoulders, Triceps",push-up,Push-ups,4,10-20,range,10,20,false,60
+bodyweight-anywhere,1,Upper Push,"Chest, Shoulders, Triceps",pike-push-up,Pike Push-ups,3,8-12,range,8,12,false,60
+bodyweight-anywhere,1,Upper Push,"Chest, Shoulders, Triceps",diamond-push-up,Diamond Push-ups,3,8-15,range,8,15,false,60
+bodyweight-anywhere,1,Upper Push,"Chest, Shoulders, Triceps",tricep-dips-chair,Tricep Dips (chair),3,10-15,range,10,15,false,60
+bodyweight-anywhere,1,Upper Push,"Chest, Shoulders, Triceps",plank-shoulder-taps,Plank Shoulder Taps,3,10 each,fixed,10,10,true,45
+bodyweight-anywhere,2,Lower Body,Legs & Glutes,bodyweight-squat,Bodyweight Squats,4,15-25,range,15,25,false,60
+bodyweight-anywhere,2,Lower Body,Legs & Glutes,reverse-lunge,Reverse Lunges,3,12 each,fixed,12,12,true,60
+bodyweight-anywhere,2,Lower Body,Legs & Glutes,glute-bridge,Glute Bridges,3,15-20,range,15,20,false,60
+bodyweight-anywhere,2,Lower Body,Legs & Glutes,step-up,Step-ups,3,12 each,fixed,12,12,true,60
+bodyweight-anywhere,2,Lower Body,Legs & Glutes,calf-raise,Calf Raises,3,20-30,range,20,30,false,45
+bodyweight-anywhere,2,Lower Body,Legs & Glutes,wall-sit,Wall Sit,3,30-60s,time,,,false,60
+bodyweight-anywhere,3,Upper Pull & Core,"Back, Biceps, Core",inverted-rows-table,Inverted Rows (table),4,8-15,range,8,15,false,60
+bodyweight-anywhere,3,Upper Pull & Core,"Back, Biceps, Core",superman-hold,Superman Holds,3,10-15,range,10,15,false,60
+bodyweight-anywhere,3,Upper Pull & Core,"Back, Biceps, Core",doorway-curls,Doorway Curls,3,10-15,range,10,15,false,60
+bodyweight-anywhere,3,Upper Pull & Core,"Back, Biceps, Core",dead-bug,Dead Bugs,3,10 each,fixed,10,10,true,45
+bodyweight-anywhere,3,Upper Pull & Core,"Back, Biceps, Core",bicycle-crunches,Bicycle Crunches,3,15 each,fixed,15,15,true,45
+bodyweight-anywhere,3,Upper Pull & Core,"Back, Biceps, Core",plank,Plank,3,30-60s,time,,,false,60
+bodyweight-anywhere,4,Full Body HIIT,Conditioning,burpee,Burpees,4,10,fixed,10,10,false,45
+bodyweight-anywhere,4,Full Body HIIT,Conditioning,mountain-climber,Mountain Climbers,4,20 each,fixed,20,20,true,30
+bodyweight-anywhere,4,Full Body HIIT,Conditioning,jump-squat,Jump Squats,4,12,fixed,12,12,false,45
+bodyweight-anywhere,4,Full Body HIIT,Conditioning,high-knees,High Knees,4,30s,time,,,false,30
+bodyweight-anywhere,4,Full Body HIIT,Conditioning,push-up-to-plank,Push-up to Plank,3,10,fixed,10,10,false,45
+dumbbell-only,1,Upper Push,"Chest, Shoulders, Triceps",dumbbell-bench-press,DB Bench Press,4,8-12,range,8,12,false,90
+dumbbell-only,1,Upper Push,"Chest, Shoulders, Triceps",dumbbell-overhead-press,DB Shoulder Press,3,10-12,range,10,12,false,90
+dumbbell-only,1,Upper Push,"Chest, Shoulders, Triceps",incline-dumbbell-press,DB Incline Press,3,10-12,range,10,12,false,90
+dumbbell-only,1,Upper Push,"Chest, Shoulders, Triceps",lateral-raise,DB Lateral Raises,3,12-15,range,12,15,false,60
+dumbbell-only,1,Upper Push,"Chest, Shoulders, Triceps",db-overhead-extension,DB Overhead Extension,3,12-15,range,12,15,false,60
+dumbbell-only,2,Lower Body,"Quads, Hamstrings, Glutes",db-goblet-squat,DB Goblet Squat,4,10-12,range,10,12,false,90
+dumbbell-only,2,Lower Body,"Quads, Hamstrings, Glutes",db-romanian-deadlift,DB Romanian Deadlift,3,10-12,range,10,12,false,90
+dumbbell-only,2,Lower Body,"Quads, Hamstrings, Glutes",db-lunge,DB Lunges,3,10 each,fixed,10,10,true,90
+dumbbell-only,2,Lower Body,"Quads, Hamstrings, Glutes",db-step-ups,DB Step-ups,3,10 each,fixed,10,10,true,60
+dumbbell-only,2,Lower Body,"Quads, Hamstrings, Glutes",db-calf-raises,DB Calf Raises,3,15-20,range,15,20,false,45
+dumbbell-only,3,Upper Pull,Back & Biceps,dumbbell-rows,DB Row,4,8-12,range,8,12,false,90
+dumbbell-only,3,Upper Pull,Back & Biceps,dumbbell-pullovers,DB Pullover,3,10-12,range,10,12,false,90
+dumbbell-only,3,Upper Pull,Back & Biceps,db-reverse-flyes,DB Reverse Flyes,3,12-15,range,12,15,false,60
+dumbbell-only,3,Upper Pull,Back & Biceps,db-curl,DB Curls,3,10-12,range,10,12,false,60
+dumbbell-only,3,Upper Pull,Back & Biceps,db-hammer-curls,DB Hammer Curls,3,12-15,range,12,15,false,60
+dumbbell-only,4,Full Body,Compound Movements,db-thruster,DB Thrusters,4,10-12,range,10,12,false,90
+dumbbell-only,4,Full Body,Compound Movements,db-renegade-rows,DB Renegade Rows,3,8 each,fixed,8,8,true,90
+dumbbell-only,4,Full Body,Compound Movements,db-split-squat,DB Split Squat,3,10 each,fixed,10,10,true,90
+dumbbell-only,4,Full Body,Compound Movements,db-floor-press,DB Floor Press,3,10-12,range,10,12,false,60
+dumbbell-only,4,Full Body,Compound Movements,db-plank-rows,DB Plank Rows,3,10 each,fixed,10,10,true,60
+full-body-beginner,1,Day A,Full Body,back-squat,Barbell Squat,3,5,fixed,5,5,false,180
+full-body-beginner,1,Day A,Full Body,bench-press,Bench Press,3,5,fixed,5,5,false,180
+full-body-beginner,1,Day A,Full Body,barbell-row,Barbell Row,3,5,fixed,5,5,false,180
+full-body-beginner,1,Day A,Full Body,overhead-press,Overhead Press,2,8-10,range,8,10,false,120
+full-body-beginner,1,Day A,Full Body,plank,Plank,3,30-60s,time,,,false,60
+full-body-beginner,2,Day B,Full Body,deadlift,Deadlift,3,5,fixed,5,5,false,180
+full-body-beginner,2,Day B,Full Body,overhead-press,Overhead Press,3,5,fixed,5,5,false,180
+full-body-beginner,2,Day B,Full Body,pull-ups-or-lat-pulldown,Pull-ups (or Lat Pulldown),3,5-8,range,5,8,false,120
+full-body-beginner,2,Day B,Full Body,dumbbell-bench-press,Dumbbell Bench Press,2,10-12,range,10,12,false,90
+full-body-beginner,2,Day B,Full Body,hanging-leg-raise,Hanging Leg Raises,3,10-15,range,10,15,false,60
+full-body-beginner,3,Day A,Full Body,back-squat,Barbell Squat,3,5,fixed,5,5,false,180
+full-body-beginner,3,Day A,Full Body,bench-press,Bench Press,3,5,fixed,5,5,false,180
+full-body-beginner,3,Day A,Full Body,barbell-row,Barbell Row,3,5,fixed,5,5,false,180
+full-body-beginner,3,Day A,Full Body,dumbbell-lunges,Dumbbell Lunges,2,10 each,fixed,10,10,true,90
+full-body-beginner,3,Day A,Full Body,face-pull,Face Pulls,3,15-20,range,15,20,false,60
+ppl-beginner-program,1,Day 1 - Push,"Chest, Shoulders, Triceps fundamentals",bench-press,Barbell Bench Press,3,8-12,range,8,12,false,90
+ppl-beginner-program,1,Day 1 - Push,"Chest, Shoulders, Triceps fundamentals",dumbbell-overhead-press,Dumbbell Overhead Press,3,8-12,range,8,12,false,90
+ppl-beginner-program,1,Day 1 - Push,"Chest, Shoulders, Triceps fundamentals",incline-dumbbell-press,Incline Dumbbell Press,2,10-15,range,10,15,false,75
+ppl-beginner-program,1,Day 1 - Push,"Chest, Shoulders, Triceps fundamentals",triceps-pushdown,Triceps Pushdowns,3,10-15,range,10,15,false,60
+ppl-beginner-program,1,Day 1 - Push,"Chest, Shoulders, Triceps fundamentals",lateral-raise,Dumbbell Lateral Raises,2,12-15,range,12,15,false,60
+ppl-beginner-program,3,Day 3 - Pull,"Back, Biceps fundamentals",lat-pulldown,Lat Pulldowns,3,8-12,range,8,12,false,90
+ppl-beginner-program,3,Day 3 - Pull,"Back, Biceps fundamentals",seated-cable-row,Seated Cable Rows,3,8-12,range,8,12,false,90
+ppl-beginner-program,3,Day 3 - Pull,"Back, Biceps fundamentals",single-arm-dumbbell-rows,Dumbbell Rows (Single Arm),2,10-15 (each arm),range,10,15,true,75
+ppl-beginner-program,3,Day 3 - Pull,"Back, Biceps fundamentals",dumbbell-bicep-curls,Dumbbell Bicep Curls,3,10-15,range,10,15,false,60
+ppl-beginner-program,3,Day 3 - Pull,"Back, Biceps fundamentals",face-pull,Face Pulls,2,15-20,range,15,20,false,60
+ppl-beginner-program,5,Day 5 - Legs,Legs and Glutes fundamentals,barbell-squats-or-goblet-squats,Barbell Squats (or Goblet Squats),3,8-12,range,8,12,false,120
+ppl-beginner-program,5,Day 5 - Legs,Legs and Glutes fundamentals,leg-press,Leg Press,3,10-15,range,10,15,false,90
+ppl-beginner-program,5,Day 5 - Legs,Legs and Glutes fundamentals,dumbbell-romanian-deadlifts,Romanian Deadlifts (Dumbbell),2,10-15,range,10,15,false,90
+ppl-beginner-program,5,Day 5 - Legs,Legs and Glutes fundamentals,leg-extension,Leg Extensions,2,12-15,range,12,15,false,60
+ppl-beginner-program,5,Day 5 - Legs,Legs and Glutes fundamentals,leg-curl,Hamstring Curls,2,12-15,range,12,15,false,60
+ppl-beginner-program,5,Day 5 - Legs,Legs and Glutes fundamentals,standing-calf-raise,Calf Raises (Standing),3,15-20,range,15,20,false,60
+strength-5x5,1,Workout A,Squat & Bench,back-squat,Barbell Squat,5,5,fixed,5,5,false,240
+strength-5x5,1,Workout A,Squat & Bench,bench-press,Bench Press,5,5,fixed,5,5,false,240
+strength-5x5,1,Workout A,Squat & Bench,barbell-row,Barbell Row,5,5,fixed,5,5,false,180
+strength-5x5,2,Workout B,Squat & OHP,back-squat,Barbell Squat,5,5,fixed,5,5,false,240
+strength-5x5,2,Workout B,Squat & OHP,overhead-press,Overhead Press,5,5,fixed,5,5,false,240
+strength-5x5,2,Workout B,Squat & OHP,deadlift,Deadlift,1,5,fixed,5,5,false,300
+strength-5x5,3,Workout A,Squat & Bench,back-squat,Barbell Squat,5,5,fixed,5,5,false,240
+strength-5x5,3,Workout A,Squat & Bench,bench-press,Bench Press,5,5,fixed,5,5,false,240
+strength-5x5,3,Workout A,Squat & Bench,barbell-row,Barbell Row,5,5,fixed,5,5,false,180

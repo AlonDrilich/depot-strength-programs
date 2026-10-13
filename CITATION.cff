@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "depot.fitness strength-program dataset"
+type: dataset
+version: "2026.10.13"
+date-released: "2026-10-13"
+license: CC-BY-4.0
+url: "https://depot.fitness/data"
+repository-code: "https://github.com/AlonDrilich/depot-strength-programs"
+authors:
+  - name: "depot.fitness"
+abstract: "The 101 strength-training programs in the depot.fitness library as data: 1,791 prescriptions of sets, reps and rest, program length, training days per week and progression notes."
+keywords:
+  - strength training
+  - workout programs
+  - sets and reps
+  - rest periods
+  - progressive overload

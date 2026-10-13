@@ -1,0 +1,218 @@
+{
+  "version": "2026.10.13",
+  "snapshot": "2026-10-13",
+  "license": "CC BY 4.0",
+  "programs": 101,
+  "prescriptions": 1791,
+  "training_days": 390,
+  "levels": {
+    "advanced": 19,
+    "intermediate": 52,
+    "beginner": 30
+  },
+  "duration_weeks": {
+    "3": 1,
+    "4": 6,
+    "6": 14,
+    "8": 36,
+    "10": 15,
+    "12": 28,
+    "16": 1
+  },
+  "training_days_per_week": {
+    "3": 42,
+    "4": 40,
+    "5": 10,
+    "6": 9
+  },
+  "programs_with_explicit_rest_days": 38,
+  "programs_with_3_or_4_training_days": 82,
+  "weekly_prescribed_sets": {
+    "median": 58,
+    "min": 12,
+    "max": 130,
+    "by_level": {
+      "beginner": 47,
+      "intermediate": 59.5,
+      "advanced": 67
+    }
+  },
+  "per_session": {
+    "median_exercises": 5,
+    "median_sets": 16,
+    "share_with_3_to_6_exercises": 0.921
+  },
+  "rest_seconds": {
+    "median": 75
+  },
+  "reps": {
+    "by_kind": {
+      "wave": 8,
+      "fixed": 599,
+      "amrap": 62,
+      "time": 77,
+      "range": 955,
+      "effort": 22,
+      "other": 10,
+      "interval": 41,
+      "list": 3,
+      "rounds": 14
+    },
+    "rep_count_prescriptions": 1565,
+    "by_top_of_range": {
+      "1-5": {
+        "prescriptions": 204,
+        "median_rest_seconds": 180
+      },
+      "6-8": {
+        "prescriptions": 162,
+        "median_rest_seconds": 120
+      },
+      "9-12": {
+        "prescriptions": 522,
+        "median_rest_seconds": 90
+      },
+      "13-15": {
+        "prescriptions": 515,
+        "median_rest_seconds": 60
+      },
+      "16+": {
+        "prescriptions": 162,
+        "median_rest_seconds": 60
+      }
+    },
+    "share_topping_out_at_5_or_fewer_of_all": 0.114
+  },
+  "progression": {
+    "mention_deload_or_reset": 10,
+    "adds_weight_every_session": {
+      "count": 8,
+      "all_beginner": true,
+      "slugs": [
+        "full-body-beginner",
+        "greyskull-lp",
+        "ice-cream-fitness",
+        "powerlifting-beginner-template",
+        "starting-strength-linear",
+        "strength-5x5",
+        "strength-5x5-linear-progression",
+        "stronglifts-5x5-refined"
+      ]
+    }
+  },
+  "exercises": {
+    "canonical_total": 484,
+    "with_own_page_3_plus_programs": 98,
+    "top_by_programs": [
+      {
+        "slug": "back-squat",
+        "name": "Back Squat",
+        "programs": 56
+      },
+      {
+        "slug": "bench-press",
+        "name": "Bench Press",
+        "programs": 56
+      },
+      {
+        "slug": "barbell-row",
+        "name": "Barbell Row",
+        "programs": 44
+      },
+      {
+        "slug": "lateral-raise",
+        "name": "Lateral Raise",
+        "programs": 39
+      },
+      {
+        "slug": "romanian-deadlift",
+        "name": "Romanian Deadlift",
+        "programs": 39
+      },
+      {
+        "slug": "incline-dumbbell-press",
+        "name": "Incline Dumbbell Press",
+        "programs": 38
+      },
+      {
+        "slug": "plank",
+        "name": "Plank",
+        "programs": 37
+      },
+      {
+        "slug": "overhead-press",
+        "name": "Overhead Press",
+        "programs": 36
+      },
+      {
+        "slug": "deadlift",
+        "name": "Deadlift",
+        "programs": 36
+      },
+      {
+        "slug": "leg-curl",
+        "name": "Leg Curl",
+        "programs": 34
+      },
+      {
+        "slug": "lat-pulldown",
+        "name": "Lat Pulldowns",
+        "programs": 33
+      },
+      {
+        "slug": "leg-press",
+        "name": "Leg Press",
+        "programs": 31
+      },
+      {
+        "slug": "face-pull",
+        "name": "Face Pulls",
+        "programs": 27
+      },
+      {
+        "slug": "leg-extension",
+        "name": "Leg Extensions",
+        "programs": 27
+      },
+      {
+        "slug": "triceps-pushdown",
+        "name": "Triceps Pushdowns",
+        "programs": 27
+      }
+    ]
+  },
+  "free_programs": [
+    "bodyweight-anywhere",
+    "dumbbell-only",
+    "full-body-beginner",
+    "ppl-beginner-program",
+    "strength-5x5"
+  ],
+  "prescriptions_file": {
+    "name": "prescriptions-free-programs.csv",
+    "scope": "free",
+    "rows": 82
+  },
+  "files": [
+    {
+      "name": "programs.csv",
+      "rows": 101,
+      "what": "One row per program: level, type, goals, equipment, length, days per week, weekly prescribed sets, progression note."
+    },
+    {
+      "name": "exercises.csv",
+      "rows": 484,
+      "what": "One row per canonical exercise: programs using it, typical sets, reps and rest, every spelling merged."
+    },
+    {
+      "name": "prescriptions-free-programs.csv",
+      "rows": 82,
+      "what": "One row per exercise in a training day, for the five programs that are free in full."
+    },
+    {
+      "name": "summary.json",
+      "rows": null,
+      "what": "The headline numbers on this page."
+    }
+  ]
+}

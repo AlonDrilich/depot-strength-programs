@@ -1,0 +1,485 @@
+exercise_slug,exercise_name,url,programs_using,prescriptions,typical_sets,typical_reps,median_rest_seconds,name_variants
+back-squat,Back Squat,https://depot.fitness/exercises/back-squat,56,75,4,5,180,Back Squat|Barbell Squats|Barbell Squat|Back Squats
+bench-press,Bench Press,https://depot.fitness/exercises/bench-press,56,73,4,5,180,Bench Press|Barbell Bench Press
+barbell-row,Barbell Row,https://depot.fitness/exercises/barbell-row,44,50,4,8-12,120,Barbell Row|Barbell Rows|Bent Over Barbell Rows
+lateral-raise,Lateral Raise,https://depot.fitness/exercises/lateral-raise,39,41,3,12-15,60,Dumbbell Lateral Raises|Lateral Raise|Dumbbell Lateral Raises (Superset)|DB Lateral Raises|Dumbbell Lateral Raises (Super Set)|Lateral Raises|Lateral Raises (Dumbbell)|Lateral Raises (Superset with Front Raises)
+romanian-deadlift,Romanian Deadlift,https://depot.fitness/exercises/romanian-deadlift,39,39,3,8-12,120,Romanian Deadlift|Romanian Deadlifts (RDLs)|Romanian Deadlifts (Barbell)
+incline-dumbbell-press,Incline Dumbbell Press,https://depot.fitness/exercises/incline-dumbbell-press,38,38,3,10-15,90,Incline Dumbbell Press|Incline DB Press|DB Incline Press
+plank,Plank,https://depot.fitness/exercises/plank,37,38,3,60 seconds,60,Plank
+overhead-press,Overhead Press,https://depot.fitness/exercises/overhead-press,36,39,3,5,120,Overhead Press|Barbell Overhead Press|Overhead Press (Barbell)
+deadlift,Deadlift,https://depot.fitness/exercises/deadlift,36,38,3,5,240,Deadlift|Deadlifts
+leg-curl,Leg Curl,https://depot.fitness/exercises/leg-curl,34,36,3,12-15,60,Hamstring Curls|Leg Curl|Leg Curls|Leg Curls (Seated)|Hamstring Curls (Lying)|Hamstring Curls (Seated)|Leg Curls (Lying)|Lying Leg Curl|Seated Leg Curls
+lat-pulldown,Lat Pulldowns,https://depot.fitness/exercises/lat-pulldown,33,33,3,10-15,90,Lat Pulldowns|Lat Pulldown
+leg-press,Leg Press,https://depot.fitness/exercises/leg-press,31,31,3,10-15,90,Leg Press
+face-pull,Face Pulls,https://depot.fitness/exercises/face-pull,27,27,3,15-20,60,Face Pulls|Face Pull
+leg-extension,Leg Extensions,https://depot.fitness/exercises/leg-extension,27,27,3,12-15,60,Leg Extensions|Leg Extension
+triceps-pushdown,Triceps Pushdowns,https://depot.fitness/exercises/triceps-pushdown,27,27,3,10-15,60,Triceps Pushdowns|Tricep Pushdown|Triceps Rope Pushdowns|Triceps Pushdowns (Rope)|Triceps Pushdown
+seated-cable-row,Seated Cable Rows,https://depot.fitness/exercises/seated-cable-row,24,25,3,10-15,90,Seated Cable Rows|Seated Row|Cable Row|Seated Cable Row
+front-squat,Front Squat,https://depot.fitness/exercises/front-squat,23,23,3,8-12,150,Front Squat|Front Squats
+glute-bridge,Glute Bridges/Hip Thrusts,https://depot.fitness/exercises/glute-bridge,23,23,3,15-20,60,Glute Bridges/Hip Thrusts|Glute Bridges|Glute Bridge|Glute Bridges (Weighted)
+hammer-curl,Hammer Curls,https://depot.fitness/exercises/hammer-curl,23,23,3,10-15,60,Hammer Curls|Hammer Curl
+standing-calf-raise,Standing Calf Raises,https://depot.fitness/exercises/standing-calf-raise,22,22,4,15-20,60,Standing Calf Raises|Calf Raises (Standing)|Standing Calf Raise
+walking-lunge,Walking Lunge,https://depot.fitness/exercises/walking-lunge,22,22,3,10-12 (each leg),90,Walking Lunge|Walking Lunges|Walking Lunges (Dumbbell)|Walking Lunges (Bodyweight)|Walking Lunges (bodyweight)
+dumbbell-bicep-curls,Dumbbell Bicep Curls,https://depot.fitness/exercises/dumbbell-bicep-curls,21,21,3,10-15,60,Dumbbell Bicep Curls|DB Curl
+dumbbell-overhead-press,DB Shoulder Press,https://depot.fitness/exercises/dumbbell-overhead-press,19,19,3,10-15,90,DB Shoulder Press|Dumbbell Overhead Press|Overhead Press (Dumbbell)|Dumbbell Overhead Press (Seated)
+goblet-squat,Goblet Squats,https://depot.fitness/exercises/goblet-squat,19,19,3,12-15,90,Goblet Squats|Goblet Squat
+single-arm-dumbbell-rows,Single Arm Dumbbell Rows,https://depot.fitness/exercises/single-arm-dumbbell-rows,19,19,3,10-15 (each arm),75,Single Arm Dumbbell Rows|Dumbbell Rows (Single Arm)
+pull-up,Pull-up,https://depot.fitness/exercises/pull-up,18,18,4,AMRAP,90,Pull-up|Pull Ups (or Assisted)|Pull-ups
+push-up,Push-up,https://depot.fitness/exercises/push-up,18,18,3,AMRAP,60,Push-up|Push Ups|Push-ups
+cable-fly,Cable Fly,https://depot.fitness/exercises/cable-fly,17,17,3,12-15,60,Cable Crossovers|Cable Fly|Cable Crossovers (Low to High)|Cable Flyes|Cable Crossovers (Mid-Pulley)
+dumbbell-bench-press,Dumbbell Bench Press,https://depot.fitness/exercises/dumbbell-bench-press,16,16,3,10-15,90,Dumbbell Bench Press|DB Bench Press
+bulgarian-split-squat,Bulgarian Split Squat,https://depot.fitness/exercises/bulgarian-split-squat,14,14,3,10/leg,90,Bulgarian Split Squat|Bulgarian Split Squats (Bodyweight)|Bulgarian Split Squats (Dumbbell)
+hanging-leg-raise,Hanging Leg Raises,https://depot.fitness/exercises/hanging-leg-raise,14,14,3,15-20,60,Hanging Leg Raises|Hanging Leg Raise
+overhead-dumbbell-extension,Overhead Dumbbell Extension,https://depot.fitness/exercises/overhead-dumbbell-extension,14,14,3,10-15,60,Overhead Dumbbell Extension|Overhead Triceps Extension (Dumbbell)|Overhead Tricep Ext|Overhead Triceps Extension (dumbbell)
+weighted-pull-up,Weighted Pull Ups,https://depot.fitness/exercises/weighted-pull-up,14,14,4,6-10,120,Weighted Pull Ups|Weighted Pull-ups|Weighted Pull-up
+dumbbell-rows,DB Row,https://depot.fitness/exercises/dumbbell-rows,13,14,3,10/side,90,DB Row|Dumbbell Rows
+burpee,Burpees,https://depot.fitness/exercises/burpee,12,13,3,10,30,Burpees|Burpee
+box-jump,Box Jumps,https://depot.fitness/exercises/box-jump,12,12,4,5-8,90,Box Jumps|Box Jump|Box Jumps (or Step Ups)
+seated-calf-raise,Seated Calf Raises,https://depot.fitness/exercises/seated-calf-raise,12,12,4,15-20,60,Seated Calf Raises|Calf Raises (Seated)|Seated Calf Raise
+barbell-curl,Barbell Curl,https://depot.fitness/exercises/barbell-curl,11,12,4,10,60,Barbell Curl|Barbell Curls
+calf-raise,Calf Raise,https://depot.fitness/exercises/calf-raise,11,11,4,15,60,Calf Raise|Calf Raises
+close-grip-bench-press,Close Grip Bench Press,https://depot.fitness/exercises/close-grip-bench-press,11,11,3,8-12,90,Close Grip Bench Press|Close-Grip Bench|Close Grip Bench
+dumbbell-thrusters,Dumbbell Thrusters,https://depot.fitness/exercises/dumbbell-thrusters,10,10,4,10-12,30,Dumbbell Thrusters|DB Thruster
+jump-squat,Jump Squats,https://depot.fitness/exercises/jump-squat,10,10,3,12,30,Jump Squats|Jump Squat
+dumbbell-romanian-deadlifts,Romanian Deadlifts (Dumbbell),https://depot.fitness/exercises/dumbbell-romanian-deadlifts,10,10,3,10-15,90,Romanian Deadlifts (Dumbbell)|Dumbbell Romanian Deadlifts
+dip,Dip,https://depot.fitness/exercises/dip,9,9,3,AMRAP,90,Dip|Dips|Dips (Assisted if needed)
+mountain-climber,Mountain Climbers,https://depot.fitness/exercises/mountain-climber,9,9,3,20 each,30,Mountain Climbers|Mountain Climber
+kb-swing,KB Swing,https://depot.fitness/exercises/kb-swing,8,15,10,10,30,KB Swing|Kettlebell Swings (or Dumbbell Swings)
+preacher-curl,Preacher Curls,https://depot.fitness/exercises/preacher-curl,8,8,3,10-15,60,Preacher Curls|Preacher Curl
+russian-twist,Russian Twists,https://depot.fitness/exercises/russian-twist,8,8,3,15-20 (each side),52.5,Russian Twists|Russian Twists (Weighted)|Russian Twist|Russian Twists (weighted)
+chin-up,Chin-up,https://depot.fitness/exercises/chin-up,7,7,3,AMRAP,90,Chin-up|Chin-ups
+incline-bench,Incline Bench,https://depot.fitness/exercises/incline-bench,7,7,4,6-8,120,Incline Bench|Incline Barbell Press
+machine-flyes,Machine Flyes,https://depot.fitness/exercises/machine-flyes,7,7,3,12-15,60,Machine Flyes|Pec Deck
+machine-shoulder-press,Machine Shoulder Press,https://depot.fitness/exercises/machine-shoulder-press,7,7,3,10-15,75,Machine Shoulder Press
+renegade-row,Renegade Rows,https://depot.fitness/exercises/renegade-row,7,7,4,8-10 (each side),30,Renegade Rows|Renegade Row
+side-plank,Side Planks,https://depot.fitness/exercises/side-plank,7,7,3,30 seconds (each side),60,Side Planks|Side Plank
+skull-crusher,Skull Crusher,https://depot.fitness/exercises/skull-crusher,7,7,4,10,60,Skull Crusher|Skull Crushers
+dumbbell-pullovers,DB Pullover,https://depot.fitness/exercises/dumbbell-pullovers,6,7,3,12,75,DB Pullover|Dumbbell Pullovers
+arnold-press,Arnold Press,https://depot.fitness/exercises/arnold-press,6,6,3,10,82.5,Arnold Press
+bird-dog,Bird Dog,https://depot.fitness/exercises/bird-dog,6,6,3,10-12 (each side),52.5,Bird Dog|Bird Dogs
+concentration-curl,Concentration Curl,https://depot.fitness/exercises/concentration-curl,6,6,3,10-15 (each arm),60,Concentration Curl|Concentration Curls
+dumbbell-lunges,DB Lunge,https://depot.fitness/exercises/dumbbell-lunges,6,6,3,10-12 (each leg),90,DB Lunge|Dumbbell Lunges
+cable-crunches,Cable Crunches,https://depot.fitness/exercises/cable-crunches,5,5,3,15-20,60,Cable Crunches
+glute-ham-raise,Glute Ham Raises,https://depot.fitness/exercises/glute-ham-raise,5,5,3,8-12,90,Glute Ham Raises|Glute Ham Raise
+high-knees,High Knees,https://depot.fitness/exercises/high-knees,5,5,3,45 seconds work / 15 seconds rest,30,High Knees
+hip-thrust,Hip Thrust,https://depot.fitness/exercises/hip-thrust,5,5,4,10,90,Hip Thrust
+hyperextension,Hyperextensions,https://depot.fitness/exercises/hyperextension,5,5,3,15-20,60,Hyperextensions|Hyperextension
+pike-push-up,Pike Push Ups,https://depot.fitness/exercises/pike-push-up,5,5,3,8-12,60,Pike Push Ups|Pike Push-up|Pike Push-ups
+power-clean,Power Clean,https://depot.fitness/exercises/power-clean,5,5,3,3,180,Power Clean|Power Cleans
+rear-delt-fly,Rear Delt Fly,https://depot.fitness/exercises/rear-delt-fly,5,5,4,15,60,Rear Delt Fly
+reverse-pec-deck-flyes,Reverse Pec Deck Flyes,https://depot.fitness/exercises/reverse-pec-deck-flyes,5,5,3,12-15,60,Reverse Pec Deck Flyes
+t-bar-row,T-Bar Rows,https://depot.fitness/exercises/t-bar-row,5,5,3,8-12,90,T-Bar Rows|T-Bar Row
+bodyweight-squat,Bodyweight Squat,https://depot.fitness/exercises/bodyweight-squat,4,5,3,10,60,Bodyweight Squat|Bodyweight Squats
+bicep-curls,Bicep Curls,https://depot.fitness/exercises/bicep-curls,4,4,3,10-15,60,Bicep Curls
+bicycle-crunches,Bicycle Crunches,https://depot.fitness/exercises/bicycle-crunches,4,4,3,15 each,7.5,Bicycle Crunches
+broad-jump,Broad Jump,https://depot.fitness/exercises/broad-jump,4,4,4,3,90,Broad Jump|Broad Jumps
+crunches,Crunches,https://depot.fitness/exercises/crunches,4,4,3,15-20,60,Crunches
+dead-bug,Dead Bug,https://depot.fitness/exercises/dead-bug,4,4,3,10,45,Dead Bug|Dead Bugs
+diamond-push-up,Diamond Push Ups,https://depot.fitness/exercises/diamond-push-up,4,4,3,6-10,60,Diamond Push Ups|Diamond Push-up|Diamond Push-ups
+dumbbell-front-raises,Dumbbell Front Raises,https://depot.fitness/exercises/dumbbell-front-raises,4,4,3,12-15,60,Dumbbell Front Raises
+hollow-hold,Hollow Hold,https://depot.fitness/exercises/hollow-hold,4,4,3,30s,45,Hollow Hold
+incline-dumbbell-curls,Incline Dumbbell Curls,https://depot.fitness/exercises/incline-dumbbell-curls,4,4,3,10-12,60,Incline Dumbbell Curls
+medicine-ball-slams,Medicine Ball Slams,https://depot.fitness/exercises/medicine-ball-slams,4,4,3,10-15,60,Medicine Ball Slams|Med Ball Slam
+push-press,Push Press,https://depot.fitness/exercises/push-press,4,4,4,3,135,Push Press
+reverse-lunge,Reverse Lunge,https://depot.fitness/exercises/reverse-lunge,4,4,3,10/leg,60,Reverse Lunge|Reverse Lunges
+step-up,Step-Up,https://depot.fitness/exercises/step-up,4,4,3,8/leg,67.5,Step-Up|Step Ups|Step-ups
+superman,Superman,https://depot.fitness/exercises/superman,4,4,3,12-15,52.5,Superman|Superman Hold
+ab-rollouts,Ab Rollouts,https://depot.fitness/exercises/ab-rollouts,3,3,3,10-15,60,Ab Rollouts
+band-pull-apart,Band Pull-Apart,https://depot.fitness/exercises/band-pull-apart,3,3,3,15,45,Band Pull-Apart
+barbell-shrugs,Barbell Shrugs,https://depot.fitness/exercises/barbell-shrugs,3,3,4,10-15,75,Barbell Shrugs
+dumbbell-bench-press-floor,Dumbbell Bench Press (Floor),https://depot.fitness/exercises/dumbbell-bench-press-floor,3,3,4,10-15,90,Dumbbell Bench Press (Floor)
+good-morning,Good Mornings,https://depot.fitness/exercises/good-morning,3,3,4,8-12,90,Good Mornings|Good Morning
+inverted-rows,Inverted Rows,https://depot.fitness/exercises/inverted-rows,3,3,3,12-15,60,Inverted Rows
+leg-raises,Leg Raises,https://depot.fitness/exercises/leg-raises,3,3,3,15-20,60,Leg Raises
+overhead-triceps-extension-cable,Overhead Triceps Extension (Cable),https://depot.fitness/exercises/overhead-triceps-extension-cable,3,3,3,12-15,60,Overhead Triceps Extension (Cable)
+plank-jacks,Plank Jacks,https://depot.fitness/exercises/plank-jacks,3,3,3,20,15,Plank Jacks
+push-up-to-plank,Push Up to Plank,https://depot.fitness/exercises/push-up-to-plank,3,3,3,10,60,Push Up to Plank|Push-up to Plank
+reverse-hyperextensions,Reverse Hyperextensions,https://depot.fitness/exercises/reverse-hyperextensions,3,3,3,10-15,60,Reverse Hyperextensions
+straight-arm-pulldown,Straight Arm Pulldowns,https://depot.fitness/exercises/straight-arm-pulldown,3,3,3,15-20,60,Straight Arm Pulldowns|Straight-Arm Pulldown
+tricep-kickback,Tricep Kickback,https://depot.fitness/exercises/tricep-kickback,3,3,3,12,60,Tricep Kickback
+turkish-get-up,Turkish Get-Up,,2,7,1,5/side,60,Turkish Get-Up
+squats,Squats,,2,3,5,12-15,150,Squats
+tricep-extension,Tricep Extension,,2,3,3,8,60,Tricep Extension
+archer-pull-up,Archer Pull Ups,,2,2,3,4-6 (each side),120,Archer Pull Ups|Archer Pull-up
+barbell-bicep-curls,Barbell Bicep Curls,,2,2,3,10-15,67.5,Barbell Bicep Curls
+barbell-squats-or-goblet-squats,Barbell Squats (or Goblet Squats),,2,2,3,8-12,120,Barbell Squats (or Goblet Squats)
+burpees-chest-to-ground,Burpees (chest to ground),,2,2,4,10-12,7.5,Burpees (chest to ground)|Burpees (Chest to Ground)
+cable-curl,Cable Curl,,2,2,3,12,60,Cable Curl|Cable Curls
+calf-raises-single-leg,Calf Raises (Single Leg),,2,2,3,10-15 (each leg),52.5,Calf Raises (Single Leg)
+chest-supported-row,Chest Supported Row,,2,2,3,10-12,82.5,Chest Supported Row|Chest-Supported Row
+db-bench,DB Bench,,2,2,4,10,82.5,DB Bench
+db-press,DB Press,,2,2,3,10,60,DB Press
+db-romanian-deadlift,DB Romanian Deadlift,,2,2,3,10,90,DB Romanian Deadlift
+dumbbell-bent-over-reverse-flyes,Dumbbell Bent Over Reverse Flyes,,2,2,3,12-15,60,Dumbbell Bent Over Reverse Flyes
+dumbbell-flyes,Dumbbell Flyes,,2,2,3,12-15,60,Dumbbell Flyes
+dumbbell-front-raises-superset,Dumbbell Front Raises (Superset),,2,2,3,12-15,60,Dumbbell Front Raises (Superset)
+dumbbell-incline-press,Dumbbell Incline Press,,2,2,3,10-15,90,Dumbbell Incline Press
+dumbbell-press,Dumbbell Press,,2,2,3,10,105,Dumbbell Press
+dumbbell-shoulder-press,Dumbbell Shoulder Press,,2,2,3,10-15,82.5,Dumbbell Shoulder Press
+dumbbell-triceps-kickbacks,Dumbbell Triceps Kickbacks,,2,2,2,12-15,60,Dumbbell Triceps Kickbacks
+flat-dumbbell-press,Flat Dumbbell Press,,2,2,3,10-15,105,Flat Dumbbell Press
+front-raise,Front Raise,,2,2,4,12,60,Front Raise
+glute-bridge-march,Glute Bridge March,,2,2,3,10/side,60,Glute Bridge March
+glute-kickback,Glute Kickback,,2,2,3,15,60,Glute Kickback
+incline-push-up,Incline Push Ups,,2,2,3,10,60,Incline Push Ups|Incline Push-up
+jump-rope,Jump Rope,,2,2,3,3 minutes,60,Jump Rope
+kettlebell-swings,Kettlebell Swings,,2,2,4,15,30,Kettlebell Swings
+kettlebell-swings-heavy,Kettlebell Swings (Heavy),,2,2,4,20-25,7.5,Kettlebell Swings (Heavy)
+knee-push-up,Knee Push Ups,,2,2,3,8,60,Knee Push Ups|Knee Push-up
+lat-pulldowns-close-grip,Lat Pulldowns (Close Grip),,2,2,3,10-15,82.5,Lat Pulldowns (Close Grip)
+lateral-bound,Lateral Bound,,2,2,3,6,75,Lateral Bound|Lateral Bounds
+leg-extensions-drop-set-on-last-set,Leg Extensions (Drop Set on last set),,2,2,3,12-15,60,Leg Extensions (Drop Set on last set)
+med-ball-slam,Med Ball Slams,,2,2,3,10-15,75,Med Ball Slams
+overhead-cable-triceps-extension,Overhead Cable Triceps Extension,,2,2,3,12-15,60,Overhead Cable Triceps Extension
+pendlay-row,Pendlay Row,,2,2,4,5,150,Pendlay Row
+plyometric-push-ups,Plyometric Push Ups,,2,2,3,Max reps,67.5,Plyometric Push Ups
+pull-ups-or-lat-pulldown,Pull Ups (or Lat Pulldowns),,2,2,3,5-8,105,Pull Ups (or Lat Pulldowns)|Pull-ups (or Lat Pulldown)
+push-press-barbell,Push Press (Barbell),,2,2,3,5-8,105,Push Press (Barbell)
+push-ups-on-knees-if-needed,Push Ups (on knees if needed),,2,2,3,8-12,60,Push Ups (on knees if needed)
+reverse-fly,Reverse Fly,,2,2,4,15,60,Reverse Fly
+single-arm-db-row,Single Arm DB Row,,2,2,3,10-12,82.5,Single Arm DB Row|Single-Arm DB Row
+sled-push-20m,Sled Push 20m,,2,2,5,x,90,Sled Push 20m
+sumo-deadlift,Sumo Deadlift,,2,2,3,8,150,Sumo Deadlift
+superman-hold,Superman Holds,,2,2,3,10-15,60,Superman Holds
+triceps-rope-extensions,Triceps Rope Extensions,,2,2,3,10-15,60,Triceps Rope Extensions
+tuck-jump,Tuck Jump,,2,2,4,30 seconds work / 30 seconds rest,45,Tuck Jump|Tuck Jumps
+v-up,V-Up,,2,2,3,12,45,V-Up|V-Ups
+weighted-dip,Weighted Dip,,2,2,3,10,105,Weighted Dip
+1-mi-run,1 mi Run,,1,2,1,x,0,1 mi Run
+band-squat,Band Squat,,1,2,4,15,67.5,Band Squat
+halo,Halo,,1,2,2,5/side,45,Halo
+100-pull-ups,100 Pull-ups,,1,1,1,partition,0,100 Pull-ups
+200-push-ups,200 Push-ups,,1,1,1,partition,0,200 Push-ups
+21-15-9-thrusters-pull-ups,21-15-9: Thrusters + Pull-ups,,1,1,1,For Time,0,21-15-9: Thrusters + Pull-ups
+3-rft-10-burpees-15-kb-swings-20-sit-ups,3 RFT: 10 Burpees + 15 KB Swings + 20 Sit-ups,,1,1,1,x,0,3 RFT: 10 Burpees + 15 KB Swings + 20 Sit-ups
+3-rft-400m-run-21-kb-swings-12-pull-ups,3 RFT: 400m Run + 21 KB Swings + 12 Pull-ups,,1,1,1,x,0,3 RFT: 400m Run + 21 KB Swings + 12 Pull-ups
+300-squats,300 Squats,,1,1,1,partition,0,300 Squats
+5-10-5-shuttle,5-10-5 Shuttle,,1,1,6,x,120,5-10-5 Shuttle
+5x3min-rounds-burpeesprawlshadow,5x3min rounds: Burpee+Sprawl+Shadow,,1,1,5,3min/1min rest,60,5x3min rounds: Burpee+Sprawl+Shadow
+9090-hip-switch,90/90 Hip Switch,,1,1,3,8/side,30,90/90 Hip Switch
+ab-rollouts-or-crunches,Ab Rollouts (or Crunches),,1,1,3,10-15,60,Ab Rollouts (or Crunches)
+ab-wheel,Ab Wheel,,1,1,4,10,60,Ab Wheel
+alternating-lunges,Alternating Lunges,,1,1,3,8-10 (each leg),60,Alternating Lunges
+amrap-20-5-pull-ups-10-push-ups-15-squats,AMRAP 20: 5 Pull-ups + 10 Push-ups + 15 Squats,,1,1,1,20min,0,AMRAP 20: 5 Pull-ups + 10 Push-ups + 15 Squats
+approach-jump,Approach Jump,,1,1,5,3,120,Approach Jump
+archer-push-ups,Archer Push Ups,,1,1,3,6-8 (each side),90,Archer Push Ups
+archer-row-progressions-eg-under-table,"Archer Row Progressions (e.g., under table)",,1,1,3,6-8 (each side),90,"Archer Row Progressions (e.g., under table)"
+assault-bike,Assault Bike,,1,1,5,20 seconds max effort / 40 seconds easy,0,Assault Bike
+australian-pull-ups-inverted-rows,Australian Pull Ups (Inverted Rows),,1,1,4,12-15,90,Australian Pull Ups (Inverted Rows)
+back-squat-bbb,Back Squat BBB,,1,1,5,10,120,Back Squat BBB
+back-squat-t1,Back Squat T1,,1,1,5,3,180,Back Squat T1
+back-squat-t2,Back Squat T2,,1,1,3,10,150,Back Squat T2
+bag-work-3min,Bag Work 3min,,1,1,3,x,60,Bag Work 3min
+band-assisted-chin-ups,Band Assisted Chin Ups,,1,1,3,10-15,75,Band Assisted Chin Ups
+band-chest-press,Band Chest Press,,1,1,4,15,60,Band Chest Press
+band-curl,Band Curl,,1,1,4,12,60,Band Curl
+band-deadlift,Band Deadlift,,1,1,4,15,75,Band Deadlift
+band-face-pull,Band Face Pull,,1,1,3,15,60,Band Face Pull
+band-glute-bridge,Band Glute Bridge,,1,1,4,15,60,Band Glute Bridge
+band-lateral-raise,Band Lateral Raise,,1,1,3,15,60,Band Lateral Raise
+band-lunge,Band Lunge,,1,1,4,10/leg,75,Band Lunge
+band-overhead-press,Band Overhead Press,,1,1,4,12,60,Band Overhead Press
+band-romanian-deadlift,Band Romanian Deadlift,,1,1,4,12,75,Band Romanian Deadlift
+band-row,Band Row,,1,1,4,15,60,Band Row
+band-tricep-pushdown,Band Tricep Pushdown,,1,1,3,15,60,Band Tricep Pushdown
+barbell-back-squats,Barbell Back Squats,,1,1,4,5,180,Barbell Back Squats
+barbell-hip-thrust,Barbell Hip Thrust,,1,1,5,8,120,Barbell Hip Thrust
+barbell-rows-underhand-grip,Barbell Rows (Underhand Grip),,1,1,3,8-12,90,Barbell Rows (Underhand Grip)
+battle-ropes,Battle Ropes,,1,1,5,30s,30,Battle Ropes
+bench-press-close-grip,Bench Press (Close Grip),,1,1,4,5-8 (at 70-85% 1RM),150,Bench Press (Close Grip)
+bench-press-pause,Bench Press (Pause),,1,1,5,3-5 (at 70-85% 1RM),180,Bench Press (Pause)
+bench-press-bbb,Bench Press BBB,,1,1,5,10,90,Bench Press BBB
+bench-press-t1,Bench Press T1,,1,1,5,3,180,Bench Press T1
+bench-press-t2,Bench Press T2,,1,1,3,10,120,Bench Press T2
+bicep-curls-band-assisted,Bicep Curls (Band Assisted),,1,1,3,12-15,60,Bicep Curls (Band Assisted)
+bodyweight-bicep-curls-door-frame,Bodyweight Bicep Curls (Door Frame),,1,1,3,12-15,60,Bodyweight Bicep Curls (Door Frame)
+bodyweight-rows-various-grips,Bodyweight Rows (various grips),,1,1,3,10-15,60,Bodyweight Rows (various grips)
+box-drill,Box Drill,,1,1,4,4 corners,90,Box Drill
+box-jumps-high-box,Box Jumps (High Box),,1,1,4,40 seconds work / 20 seconds rest,0,Box Jumps (High Box)
+box-jumps-plyometric,Box Jumps (Plyometric),,1,1,3,5-8,90,Box Jumps (Plyometric)
+box-squat-or-deadlift-variation,Box Squat or Deadlift Variation,,1,1,1,1RM,300,Box Squat or Deadlift Variation
+bulgarian-split-squat-chair,Bulgarian Split Squat (chair),,1,1,3,10/leg,60,Bulgarian Split Squat (chair)
+burpee-broad-jumps,Burpee Broad Jumps,,1,1,4,8,30,Burpee Broad Jumps
+burpees-full,Burpees (full),,1,1,3,10-12,15,Burpees (full)
+burpees-no-push-up-option,Burpees (no push up option),,1,1,3,10-15,60,Burpees (no push up option)
+butt-kicks,Butt Kicks,,1,1,4,45 seconds work / 15 seconds rest,0,Butt Kicks
+cable-curl-21s,Cable Curl 21s,,1,1,3,21,60,Cable Curl 21s
+cable-front-raises,Cable Front Raises,,1,1,3,12-15,45,Cable Front Raises
+cable-lateral,Cable Lateral,,1,1,5,15,45,Cable Lateral
+cable-lateral-raises,Cable Lateral Raises,,1,1,3,12-15,60,Cable Lateral Raises
+cable-pull-through,Cable Pull-Through,,1,1,4,15,60,Cable Pull-Through
+cable-pullovers,Cable Pullovers,,1,1,3,12-15,60,Cable Pullovers
+cable-rotations,Cable Rotations,,1,1,3,10-15 (each side),60,Cable Rotations
+cable-row,Cable Rows,,1,1,3,10-12,90,Cable Rows
+cable-triceps-pushdowns,Cable Triceps Pushdowns,,1,1,4,10-15,60,Cable Triceps Pushdowns
+calf-raises-bodyweight,Calf Raises (Bodyweight),,1,1,3,15-20,60,Calf Raises (Bodyweight)
+calf-raises-double-leg-weighted,"Calf Raises (Double Leg, weighted)",,1,1,4,15-20,60,"Calf Raises (Double Leg, weighted)"
+carioca,Carioca,,1,1,3,20 yards (each side),60,Carioca
+cat-cow,Cat-Cow,,1,1,3,10,30,Cat-Cow
+chaturanga-push-ups,Chaturanga Push Ups,,1,1,3,8-12,60,Chaturanga Push Ups
+chin-up-negatives,Chin Up Negatives,,1,1,3,5 (5 second eccentric),90,Chin Up Negatives
+clean-pulls-from-floor,Clean Pulls (from floor),,1,1,4,3-5,150,Clean Pulls (from floor)
+commando-pull-ups,Commando Pull Ups,,1,1,3,8-12 (each side),90,Commando Pull Ups
+cone-drills-eg-t-drill,"Cone Drills (e.g., T-Drill)",,1,1,5,3-5 reps,60,"Cone Drills (e.g., T-Drill)"
+cossack-squat,Cossack Squat,,1,1,3,6/side,60,Cossack Squat
+couch-stretch,Couch Stretch,,1,1,3,45s/side,30,Couch Stretch
+curl,Curl,,1,1,3,12,60,Curl
+curl-pushdown,Curl + Pushdown,,1,1,3,12,60,Curl + Pushdown
+curl-pushdown-superset,Curl + Pushdown Superset,,1,1,3,12,60,Curl + Pushdown Superset
+curlpushdown,Curl/Pushdown,,1,1,3,10,60,Curl/Pushdown
+cycling-40min,Cycling 40min,,1,1,1,Zone 2,0,Cycling 40min
+db-calf-raises,DB Calf Raises,,1,1,3,15-20,45,DB Calf Raises
+db-curl,DB Curls,,1,1,3,10-12,60,DB Curls
+db-floor-press,DB Floor Press,,1,1,3,10-12,60,DB Floor Press
+db-fly,DB Fly,,1,1,4,12,60,DB Fly
+db-goblet-squat,DB Goblet Squat,,1,1,4,10-12,90,DB Goblet Squat
+db-hammer-curls,DB Hammer Curls,,1,1,3,12-15,60,DB Hammer Curls
+db-lunge,DB Lunges,,1,1,3,10 each,90,DB Lunges
+db-overhead-extension,DB Overhead Extension,,1,1,3,12-15,60,DB Overhead Extension
+db-plank-rows,DB Plank Rows,,1,1,3,10 each,60,DB Plank Rows
+db-rdl,DB RDL,,1,1,4,10,90,DB RDL
+db-renegade-rows,DB Renegade Rows,,1,1,3,8 each,90,DB Renegade Rows
+db-reverse-flyes,DB Reverse Flyes,,1,1,3,12-15,60,DB Reverse Flyes
+db-shoulder-press-seated,DB Shoulder Press (seated),,1,1,3,10,90,DB Shoulder Press (seated)
+db-shrug,DB Shrug,,1,1,3,15,60,DB Shrug
+db-split-squat,DB Split Squat,,1,1,3,10 each,90,DB Split Squat
+db-step-ups,DB Step-ups,,1,1,3,10 each,60,DB Step-ups
+db-thruster,DB Thrusters,,1,1,4,10-12,90,DB Thrusters
+dead-hang,Dead Hang,,1,1,3,30s,60,Dead Hang
+deadlift-bbb,Deadlift BBB,,1,1,5,10,120,Deadlift BBB
+deadlift-t1,Deadlift T1,,1,1,5,3,240,Deadlift T1
+deadlift-t2,Deadlift T2,,1,1,3,10,150,Deadlift T2
+deadlifts-conventional-or-sumo,Deadlifts (Conventional or Sumo),,1,1,3,3-5,240,Deadlifts (Conventional or Sumo)
+decline-dumbbell-press,Decline Dumbbell Press,,1,1,3,10-15,75,Decline Dumbbell Press
+decline-push-ups-feet-elevated-slightly,Decline Push Ups (feet elevated slightly),,1,1,3,6-10,60,Decline Push Ups (feet elevated slightly)
+depth-jump,Depth Jump,,1,1,5,3,120,Depth Jump
+dips-bodyweight-or-assisted,Dips (Bodyweight or Assisted),,1,1,3,to failure,60,Dips (Bodyweight or Assisted)
+dips-rings-or-parallel-bars,Dips (Rings or Parallel Bars),,1,1,4,8-12,90,Dips (Rings or Parallel Bars)
+donkey-kicks,Donkey Kicks,,1,1,3,15-20 (each leg),45,Donkey Kicks
+door-frame-rows,Door Frame Rows,,1,1,3,10-15,60,Door Frame Rows
+doorway-curls,Doorway Curls,,1,1,3,10-15,60,Doorway Curls
+down-dog-up-dog,Down Dog → Up Dog,,1,1,3,8,45,Down Dog → Up Dog
+dumbbell-bent-over-rows,Dumbbell Bent-Over Rows,,1,1,3,12-15,30,Dumbbell Bent-Over Rows
+dumbbell-chest-flyes-flat,Dumbbell Chest Flyes (Flat),,1,1,3,15-20,30,Dumbbell Chest Flyes (Flat)
+dumbbell-flyes-floor,Dumbbell Flyes (Floor),,1,1,3,12-15,75,Dumbbell Flyes (Floor)
+dumbbell-front-raises-super-set,Dumbbell Front Raises (Super Set),,1,1,3,12-15,60,Dumbbell Front Raises (Super Set)
+dumbbell-front-squats,Dumbbell Front Squats,,1,1,3,10-15,90,Dumbbell Front Squats
+dumbbell-hammer-curls,Dumbbell Hammer Curls,,1,1,3,10-15,60,Dumbbell Hammer Curls
+dumbbell-press-incline,Dumbbell Press (Incline),,1,1,3,10-15,75,Dumbbell Press (Incline)
+dumbbell-push-press,Dumbbell Push Press,,1,1,3,12-15,30,Dumbbell Push Press
+dumbbell-renegade-rows,Dumbbell Renegade Rows,,1,1,4,8-10 (each side),30,Dumbbell Renegade Rows
+dumbbell-row-t3,Dumbbell Row T3,,1,1,3,15+,90,Dumbbell Row T3
+dumbbell-rows-alternating-arms,Dumbbell Rows (alternating arms),,1,1,3,10-12 (each arm),15,Dumbbell Rows (alternating arms)
+dumbbell-side-bends,Dumbbell Side Bends,,1,1,3,10-12 (each side),60,Dumbbell Side Bends
+dumbbell-snatch-alternating,Dumbbell Snatch (Alternating),,1,1,4,6-8 (each arm),30,Dumbbell Snatch (Alternating)
+dumbbell-squat-to-overhead-press,Dumbbell Squat to Overhead Press,,1,1,3,10-12,30,Dumbbell Squat to Overhead Press
+dumbbell-step-ups,Dumbbell Step Ups,,1,1,3,10-12 (each leg),90,Dumbbell Step Ups
+dumbbell-step-ups-heavy,Dumbbell Step Ups (Heavy),,1,1,3,8-10 (each leg),90,Dumbbell Step Ups (Heavy)
+dumbbell-triceps-extensions,Dumbbell Triceps Extensions,,1,1,2,10-15,60,Dumbbell Triceps Extensions
+dumbbell-triceps-extensions-overhead,Dumbbell Triceps Extensions (Overhead),,1,1,3,12-15,60,Dumbbell Triceps Extensions (Overhead)
+dumbbell-walking-lunges,Dumbbell Walking Lunges,,1,1,4,10-12 (each leg),30,Dumbbell Walking Lunges
+emom-20-10-db-snatch-5side-10-burpees,EMOM 20: 10 DB Snatch (5/side) + 10 Burpees,,1,1,1,20,0,EMOM 20: 10 DB Snatch (5/side) + 10 Burpees
+emom-20-10-push-ups-10-squats,EMOM 20: 10 Push-ups + 10 Squats,,1,1,1,20,0,EMOM 20: 10 Push-ups + 10 Squats
+emom-20-5-pull-ups-10-kb-swings,EMOM 20: 5 Pull-ups + 10 KB Swings,,1,1,1,20,0,EMOM 20: 5 Pull-ups + 10 KB Swings
+emom-20-5-wall-balls-5-burpees,EMOM 20: 5 Wall Balls + 5 Burpees,,1,1,1,20 rounds,0,EMOM 20: 5 Wall Balls + 5 Burpees
+emom-25-5-pull-ups-10-push-ups-15-kb-swings,EMOM 25: 5 Pull-ups + 10 Push-ups + 15 KB Swings,,1,1,1,25min,0,EMOM 25: 5 Pull-ups + 10 Push-ups + 15 KB Swings
+ez-bar-bicep-curls,EZ Bar Bicep Curls,,1,1,3,10-15,60,EZ Bar Bicep Curls
+face-pulls-band,Face Pulls (Band),,1,1,3,15-20,60,Face Pulls (Band)
+face-pulls-high-reps,Face Pulls (High Reps),,1,1,3,20-25,45,Face Pulls (High Reps)
+farmer-carry-30s,Farmer Carry 30s,,1,1,3,x,90,Farmer Carry 30s
+farmer-carry-40m,Farmer Carry 40m,,1,1,5,x,90,Farmer Carry 40m
+farmers-walk,Farmers Walk,,1,1,3,30-45 seconds,75,Farmers Walk
+fire-hydrant,Fire Hydrant,,1,1,3,15/side,45,Fire Hydrant
+floor-press,Floor Press,,1,1,4,10,90,Floor Press
+floor-press-or-board-press,Floor Press or Board Press,,1,1,1,1RM,300,Floor Press or Board Press
+front-lever-progressions-tuck-advanced-tuck,"Front Lever Progressions (Tuck, Advanced Tuck)",,1,1,4,5-10 second holds,90,"Front Lever Progressions (Tuck, Advanced Tuck)"
+front-raises-cable,Front Raises (Cable),,1,1,3,12-15,60,Front Raises (Cable)
+front-squat-2-kb,Front Squat (2 KB),,1,1,5,8,90,Front Squat (2 KB)
+glute-bridges-single-leg,Glute Bridges (Single Leg),,1,1,3,12-15 (each leg),60,Glute Bridges (Single Leg)
+glute-bridges-weighted-if-possible,Glute Bridges (Weighted if possible),,1,1,3,15-20,60,Glute Bridges (Weighted if possible)
+glute-kickbacks-cable,Glute Kickbacks (Cable),,1,1,3,15-20 (each leg),60,Glute Kickbacks (Cable)
+goblet-squat-warm-up,Goblet Squat (warm-up),,1,1,2,5,60,Goblet Squat (warm-up)
+goblet-squats-heavy-dumbbell,Goblet Squats (heavy dumbbell),,1,1,4,8-12,90,Goblet Squats (heavy dumbbell)
+hack-squat,Hack Squat,,1,1,3,10-12,120,Hack Squat
+hack-squat-machine-or-dumbbell-lunges,Hack Squat Machine (or Dumbbell Lunges),,1,1,3,10-15,90,Hack Squat Machine (or Dumbbell Lunges)
+halo-warm-up,Halo (warm-up),,1,1,2,5/side,45,Halo (warm-up)
+hammer-curl-t3,Hammer Curl T3,,1,1,3,15+,60,Hammer Curl T3
+hammer-curls-rope,Hammer Curls (Rope),,1,1,3,12-15,60,Hammer Curls (Rope)
+handstand-push-ups-wall-assisted,Handstand Push Ups (Wall Assisted),,1,1,4,5-8,120,Handstand Push Ups (Wall Assisted)
+hanging-for-time,Hanging (for time),,1,1,3,Max hang time,60,Hanging (for time)
+hanging-knee-raises,Hanging Knee Raises,,1,1,4,40 seconds work / 20 seconds rest,90,Hanging Knee Raises
+hanging-oblique-raises,Hanging Oblique Raises,,1,1,3,15-20 (each side),60,Hanging Oblique Raises
+hill-sprint-20m,Hill Sprint 20m,,1,1,6,x,120,Hill Sprint 20m
+hip-hinge,Hip Hinge,,1,1,3,10,60,Hip Hinge
+incline-dumbbell-press-on-floor-or-bench,Incline Dumbbell Press (on floor or bench),,1,1,3,10-15,90,Incline Dumbbell Press (on floor or bench)
+incline-machine-press,Incline Machine Press,,1,1,3,10-15,90,Incline Machine Press
+incline-treadmill-walk-45min,Incline Treadmill Walk 45min,,1,1,1,x,0,Incline Treadmill Walk 45min
+interval-sprints-2040,Interval Sprints (20/40),,1,1,6,20s sprint/40s walk,0,Interval Sprints (20/40)
+inverted-rows-if-possible-or-table-rows,"Inverted Rows (if possible, or table rows)",,1,1,3,8-12,60,"Inverted Rows (if possible, or table rows)"
+inverted-rows-table,Inverted Rows (table),,1,1,4,8-15,60,Inverted Rows (table)
+inverted-rows-using-tablebedsheet,Inverted Rows (using table/bedsheet),,1,1,3,8-12,60,Inverted Rows (using table/bedsheet)
+inverted-rows-using-tablechair,Inverted Rows (using table/chair),,1,1,3,12-15,75,Inverted Rows (using table/chair)
+jerk-balances-barbell,Jerk Balances (Barbell),,1,1,3,3-5 (each side),120,Jerk Balances (Barbell)
+jumping-jacks,Jumping Jacks,,1,1,4,45 seconds work / 15 seconds rest,0,Jumping Jacks
+kb-complex-cleanpresssquat,KB Complex (Clean+Press+Squat),,1,1,5,5,90,KB Complex (Clean+Press+Squat)
+kb-halo,KB Halo,,1,1,3,10/side,60,KB Halo
+kb-press,KB Press,,1,1,5,8/side,60,KB Press
+kb-row,KB Row,,1,1,4,10/side,60,KB Row
+kb-snatch,KB Snatch,,1,1,6,10/side,60,KB Snatch
+kettlebell-swings-if-available,Kettlebell Swings (if available),,1,1,5,30 seconds work / 30 seconds rest,0,Kettlebell Swings (if available)
+knee-raise,Knee Raise,,1,1,4,15,60,Knee Raise
+l-sit-hold,L-Sit Hold,,1,1,3,15s,60,L-Sit Hold
+l-sit-progressions,L-Sit Progressions,,1,1,4,10-20 second holds,60,L-Sit Progressions
+ladder-drills,Ladder Drills,,1,1,4,30s,60,Ladder Drills
+lat-pulldown-band,Lat Pulldown (band),,1,1,3,12,75,Lat Pulldown (band)
+lat-pulldown-or-band,Lat Pulldown (or band),,1,1,3,12,75,Lat Pulldown (or band)
+lat-pulldown-t3,Lat Pulldown T3,,1,1,3,15+,90,Lat Pulldown T3
+lat-pulldowns-wide-grip,Lat Pulldowns (Wide Grip),,1,1,3,10-15,90,Lat Pulldowns (Wide Grip)
+lateral-jumps-over-obstacle,Lateral Jumps (over obstacle),,1,1,4,40 seconds work / 20 seconds rest,0,Lateral Jumps (over obstacle)
+leg-extensions-dropset,Leg Extensions (Dropset),,1,1,3,15-20,60,Leg Extensions (Dropset)
+leg-press-high-foot,Leg Press (high foot),,1,1,4,12,90,Leg Press (high foot)
+leg-raises-lying,Leg Raises (Lying),,1,1,3,15-20,60,Leg Raises (Lying)
+lunges,Lunges,,1,1,3,10-12 (each leg),60,Lunges
+lunges-bodyweight,Lunges (Bodyweight),,1,1,3,10-12 (each leg),60,Lunges (Bodyweight)
+machine-chest-press,Machine Chest Press,,1,1,3,10-12,90,Machine Chest Press
+machine-incline-press,Machine Incline Press,,1,1,3,12-15,60,Machine Incline Press
+machine-rows,Machine Rows,,1,1,2,10-15,75,Machine Rows
+med-ball-chest-pass,Med Ball Chest Pass,,1,1,4,8,60,Med Ball Chest Pass
+medicine-ball-russian-twists-heavy,Medicine Ball Russian Twists (Heavy),,1,1,4,40 seconds work / 20 seconds rest,0,Medicine Ball Russian Twists (Heavy)
+mixed-grip-pull-ups-alternate-sides,Mixed Grip Pull Ups (Alternate sides),,1,1,4,8-12,90,Mixed Grip Pull Ups (Alternate sides)
+negative-pull-up,Negative Pull-up,,1,1,4,5,120,Negative Pull-up
+nordic-hamstring-curls-assisted-if-needed,Nordic Hamstring Curls (Assisted if needed),,1,1,3,5-8,90,Nordic Hamstring Curls (Assisted if needed)
+overhead-cable-extension,Overhead Cable Extension,,1,1,3,12-15,60,Overhead Cable Extension
+overhead-press-barbelldumbbell,Overhead Press (Barbell/Dumbbell),,1,1,3,6-10,90,Overhead Press (Barbell/Dumbbell)
+overhead-press-bbb,Overhead Press BBB,,1,1,5,10,90,Overhead Press BBB
+overhead-press-t1,Overhead Press T1,,1,1,5,3,180,Overhead Press T1
+overhead-press-t2,Overhead Press T2,,1,1,3,10,120,Overhead Press T2
+overhead-squats,Overhead Squats,,1,1,4,3-5,150,Overhead Squats
+overhead-tricep,Overhead Tricep,,1,1,3,12,60,Overhead Tricep
+overhead-tricep-extension,Overhead Tricep Extension,,1,1,3,12-15,60,Overhead Tricep Extension
+pallof-press,Pallof Press,,1,1,3,10/side,60,Pallof Press
+pause-bench-press,Pause Bench Press,,1,1,3,4-6,150,Pause Bench Press
+pause-squats,Pause Squats,,1,1,3,3-5,150,Pause Squats
+pause-squats-back-squats,Pause Squats (Back Squats),,1,1,3,5,120,Pause Squats (Back Squats)
+pike-push-ups-for-shoulders,Pike Push Ups (for shoulders),,1,1,3,6-10,60,Pike Push Ups (for shoulders)
+pistol-squat-progressions-assisted,Pistol Squat Progressions (assisted),,1,1,3,6-10 (each leg),90,Pistol Squat Progressions (assisted)
+pistol-squats-assisted-if-needed,Pistol Squats (Assisted if needed),,1,1,4,6-10 (each leg),90,Pistol Squats (Assisted if needed)
+plank-long-holds,Plank (Long Holds),,1,1,3,60-90 seconds,60,Plank (Long Holds)
+plank-various-positions,Plank (various positions),,1,1,3,60 seconds,60,Plank (various positions)
+plank-with-variations,Plank (with variations),,1,1,3,60 seconds,60,Plank (with variations)
+plank-circuit-front-side-left-side-right,"Plank Circuit (Front, Side Left, Side Right)",,1,1,3,30 seconds each position,60,"Plank Circuit (Front, Side Left, Side Right)"
+plank-rows-renegade-row-variation,Plank Rows (renegade row variation),,1,1,4,8-10 (each side),90,Plank Rows (renegade row variation)
+plank-shoulder-taps,Plank Shoulder Taps,,1,1,3,10 each,45,Plank Shoulder Taps
+pro-agility-drill-5-10-5,Pro Agility Drill (5-10-5),,1,1,5,3-5 reps,90,Pro Agility Drill (5-10-5)
+prying-goblet-squat,Prying Goblet Squat,,1,1,2,5,60,Prying Goblet Squat
+pseudo-planche-push-ups,Pseudo Planche Push Ups,,1,1,4,8-12,90,Pseudo Planche Push Ups
+pull-overs,Pull Overs,,1,1,3,12-15,60,Pull Overs
+pull-ups-assisted-if-needed,Pull Ups (Assisted if needed),,1,1,3,as many as possible,90,Pull Ups (Assisted if needed)
+pull-ups-max-reps-sets,Pull Ups (Max Reps / Sets),,1,1,5,to failure (approx. 6-10),120,Pull Ups (Max Reps / Sets)
+pull-ups-weighted-if-possible,Pull Ups (Weighted if possible),,1,1,3,6-10,90,Pull Ups (Weighted if possible)
+pull-up-ladder-1-2-3-4-5,Pull-up Ladder 1-2-3-4-5,,1,1,1,5 rounds,120,Pull-up Ladder 1-2-3-4-5
+push-up-to-renegade-row,Push Up to Renegade Row,,1,1,3,8-10 (each side),60,Push Up to Renegade Row
+push-ups-dumbbells-for-grip,Push Ups (Dumbbells for grip),,1,1,3,to failure,60,Push Ups (Dumbbells for grip)
+push-ups-on-stable-surface,Push Ups (on stable surface),,1,1,3,to failure,60,Push Ups (on stable surface)
+push-ups-to-knees-if-needed,Push Ups (to knees if needed),,1,1,3,8-12,60,Push Ups (to knees if needed)
+push-ups-various-widths,Push Ups (various widths),,1,1,3,to failure,60,Push Ups (various widths)
+push-ups-weighted-if-possible,Push Ups (Weighted if possible),,1,1,3,to failure,75,Push Ups (Weighted if possible)
+push-ups-with-dumbbells-for-grip,Push Ups (with dumbbells for grip),,1,1,4,to failure,90,Push Ups (with dumbbells for grip)
+push-up-incline-ok,Push-up (incline OK),,1,1,3,10,75,Push-up (incline OK)
+push-up-incline,Push-up (incline),,1,1,3,8,75,Push-up (incline)
+push-up-variations,Push-up Variations,,1,1,4,15,30,Push-up Variations
+rack-pulls,Rack Pulls,,1,1,3,6-8,180,Rack Pulls
+reactive-ball-drops,Reactive Ball Drops,,1,1,3,10-15 catches,60,Reactive Ball Drops
+rear-delt-flyes-cable,Rear Delt Flyes (Cable),,1,1,3,15-20,60,Rear Delt Flyes (Cable)
+renegade-rows-dumbbell,Renegade Rows (Dumbbell),,1,1,3,8-10 (each side),60,Renegade Rows (Dumbbell)
+renegade-rows-heavy-dumbbells,Renegade Rows (heavy dumbbells),,1,1,4,40 seconds work / 20 seconds rest,0,Renegade Rows (heavy dumbbells)
+reverse-flyes,Reverse Flyes,,1,1,3,15-20,60,Reverse Flyes
+reverse-grip-triceps-pushdowns,Reverse Grip Triceps Pushdowns,,1,1,3,12-15,60,Reverse Grip Triceps Pushdowns
+reverse-hyper,Reverse Hyper,,1,1,4,15,60,Reverse Hyper
+reverse-hyperextensions-on-floor,Reverse Hyperextensions (on floor),,1,1,3,15-20,60,Reverse Hyperextensions (on floor)
+reverse-pec-deck,Reverse Pec Deck,,1,1,3,15-20,45,Reverse Pec Deck
+reverse-snow-angel,Reverse Snow Angel,,1,1,4,15,45,Reverse Snow Angel
+row-machine-500m,Row Machine 500m,,1,1,3,x,90,Row Machine 500m
+rowing-machine-intervals,Rowing Machine Intervals,,1,1,4,250m,60,Rowing Machine Intervals
+russian-twists-bodyweight,Russian Twists (bodyweight),,1,1,4,45 seconds work / 15 seconds rest,60,Russian Twists (bodyweight)
+scapular-pull-ups,Scapular Pull Ups,,1,1,3,10-15,75,Scapular Pull Ups
+seated-cable-rows-close-grip,Seated Cable Rows (close grip),,1,1,3,10-15,75,Seated Cable Rows (close grip)
+seated-calf,Seated Calf,,1,1,4,15,60,Seated Calf
+seated-dumbbell-overhead-press,Seated Dumbbell Overhead Press,,1,1,4,8-12,90,Seated Dumbbell Overhead Press
+seated-dumbbell-press,Seated Dumbbell Press,,1,1,4,8-10,120,Seated Dumbbell Press
+seated-dumbbell-shoulder-press,Seated Dumbbell Shoulder Press,,1,1,4,8-12,90,Seated Dumbbell Shoulder Press
+seated-overhead-press,Seated Overhead Press,,1,1,3,6-10,90,Seated Overhead Press
+shadow-boxing-with-light-weights,Shadow Boxing (with light weights),,1,1,3,90 seconds continuous,30,Shadow Boxing (with light weights)
+shrug,Shrug,,1,1,3,8,60,Shrug
+single-arm-cable-rows,Single Arm Cable Rows,,1,1,3,10-15 (each arm),75,Single Arm Cable Rows
+single-arm-row,Single-Arm Row,,1,1,3,10/side,75,Single-Arm Row
+single-leg-glute-bridge,Single-Leg Glute Bridge,,1,1,3,12/side,60,Single-Leg Glute Bridge
+single-leg-hip-thrust,Single-Leg Hip Thrust,,1,1,4,12/side,75,Single-Leg Hip Thrust
+single-leg-hop,Single-Leg Hop,,1,1,4,5/side,90,Single-Leg Hop
+sissy-squat,Sissy Squat,,1,1,3,12,60,Sissy Squat
+skullcrushers-ez-bar,Skullcrushers (EZ Bar),,1,1,4,10-15,75,Skullcrushers (EZ Bar)
+slam-balls,Slam Balls,,1,1,4,40 seconds work / 20 seconds rest,90,Slam Balls
+sled-push,Sled Push,,1,1,4,30m,45,Sled Push
+sled-pushes,Sled Pushes,,1,1,4,20-30 yards,90,Sled Pushes
+snatch-grip-deadlift,Snatch Grip Deadlift,,1,1,5,3,180,Snatch Grip Deadlift
+snatch-pulls-from-floor,Snatch Pulls (from floor),,1,1,4,3-5,150,Snatch Pulls (from floor)
+speed-bench,Speed Bench,,1,1,9,3,60,Speed Bench
+speed-deadlift,Speed Deadlift,,1,1,8,1,60,Speed Deadlift
+speed-squat,Speed Squat,,1,1,10,2,60,Speed Squat
+spoto-press,Spoto Press,,1,1,3,4-6,150,Spoto Press
+sprawls,Sprawls,,1,1,3,60 seconds continuous,60,Sprawls
+sprint-100m,Sprint 100m,,1,1,6,x,90,Sprint 100m
+sprint-10m,Sprint 10m,,1,1,6,x,90,Sprint 10m
+sprint-20m,Sprint 20m,,1,1,6,x,90,Sprint 20m
+sprint-30m,Sprint 30m,,1,1,6,x,120,Sprint 30m
+sprint-40m,Sprint 40m,,1,1,6,x,90,Sprint 40m
+sprint-60m,Sprint 60m,,1,1,4,x,180,Sprint 60m
+sprints-10-40-yards,Sprints (10-40 yards),,1,1,6,As fast as possible,120,Sprints (10-40 yards)
+sprints-20s-on-10s-off,Sprints (20s on / 10s off),,1,1,8,20s,10,Sprints (20s on / 10s off)
+squat-jumps,Squat Jumps,,1,1,5,12,30,Squat Jumps
+squats-bodyweight,Squats (Bodyweight),,1,1,3,15-20,60,Squats (Bodyweight)
+standing-calf,Standing Calf,,1,1,5,15,45,Standing Calf
+standing-calf-raises-machine,Standing Calf Raises (Machine),,1,1,4,20-25,60,Standing Calf Raises (Machine)
+step-ups-heavy,Step Ups (heavy),,1,1,3,8-12 (each leg),90,Step Ups (heavy)
+step-ups-onto-chairstable-surface,Step Ups (onto chair/stable surface),,1,1,3,8-10 (each leg),60,Step Ups (onto chair/stable surface)
+step-ups-onto-chairstairs,Step Ups (onto chair/stairs),,1,1,3,10-12 (each leg),60,Step Ups (onto chair/stairs)
+suicide-run,Suicide Run,,1,1,4,x,150,Suicide Run
+suicides-shuttle-runs,Suicides / Shuttle Runs,,1,1,5,x,90,Suicides / Shuttle Runs
+sumo-squat,Sumo Squat,,1,1,3,12,90,Sumo Squat
+supine-rows-bodyweight,Supine Rows (Bodyweight),,1,1,3,to failure,60,Supine Rows (Bodyweight)
+t-drill,T-Drill,,1,1,5,x,120,T-Drill
+tabata-bodyweight-squat,Tabata: Bodyweight Squat,,1,1,1,8 rounds 20/10,0,Tabata: Bodyweight Squat
+tabata-burpee,Tabata: Burpee,,1,1,1,8 rounds,0,Tabata: Burpee
+tabata-db-row,Tabata: DB Row,,1,1,1,8 rounds,0,Tabata: DB Row
+tabata-glute-bridge,Tabata: Glute Bridge,,1,1,1,8 rounds,0,Tabata: Glute Bridge
+tabata-jump-lunge,Tabata: Jump Lunge,,1,1,1,8 rounds,0,Tabata: Jump Lunge
+tabata-jump-squat,Tabata: Jump Squat,,1,1,1,8 rounds,0,Tabata: Jump Squat
+tabata-kb-swing,Tabata: KB Swing,,1,1,1,8 rounds,0,Tabata: KB Swing
+tabata-mountain-climber,Tabata: Mountain Climber,,1,1,1,8 rounds,0,Tabata: Mountain Climber
+tabata-pike-push-up,Tabata: Pike Push-up,,1,1,1,8 rounds,0,Tabata: Pike Push-up
+tabata-plank,Tabata: Plank,,1,1,1,8 rounds,0,Tabata: Plank
+tabata-push-up,Tabata: Push-up,,1,1,1,8 rounds,0,Tabata: Push-up
+tabata-v-up,Tabata: V-Up,,1,1,1,8 rounds,0,Tabata: V-Up
+table-rows-or-resistance-band-rows,Table Rows (or Resistance Band Rows),,1,1,3,10-15,60,Table Rows (or Resistance Band Rows)
+thoracic-rotation,Thoracic Rotation,,1,1,3,8/side,30,Thoracic Rotation
+toe-taps-on-stepbox,Toe Taps (on step/box),,1,1,4,40 seconds work / 20 seconds rest,0,Toe Taps (on step/box)
+towel-row-door,Towel Row (door),,1,1,4,15,60,Towel Row (door)
+trap-bar-deadlift-or-db,Trap Bar Deadlift (or DB),,1,1,3,8,120,Trap Bar Deadlift (or DB)
+treadmill-sprints,Treadmill Sprints,,1,1,10,30 seconds sprint / 90 seconds walk,0,Treadmill Sprints
+tricep-dip-chair,Tricep Dip (chair),,1,1,4,15,60,Tricep Dip (chair)
+tricep-dips-chair,Tricep Dips (chair),,1,1,3,10-15,60,Tricep Dips (chair)
+tricep-pushdown-t3,Tricep Pushdown T3,,1,1,3,15+,60,Tricep Pushdown T3
+tricep-pushdown,Tricep Pushdowns,,1,1,3,12-15,60,Tricep Pushdowns
+triceps-extensions-floor,Triceps Extensions (Floor),,1,1,3,12-15,60,Triceps Extensions (Floor)
+triceps-kickbacks-dumbbell,Triceps Kickbacks (Dumbbell),,1,1,3,12-15,60,Triceps Kickbacks (Dumbbell)
+triceps-overhead-extension,Triceps Overhead Extension,,1,1,3,12-15,60,Triceps Overhead Extension
+triceps-pushdowns-cable,Triceps Pushdowns (Cable),,1,1,3,10-15,60,Triceps Pushdowns (Cable)
+typewriter-pull-ups,Typewriter Pull Ups,,1,1,3,3-5,90,Typewriter Pull Ups
+upright-row,Upright Row,,1,1,3,12,75,Upright Row
+walking-lunges-weighted,Walking Lunges (Weighted),,1,1,4,40 seconds work / 20 seconds rest,0,Walking Lunges (Weighted)
+wall-balls-med-ball,Wall Balls (Med Ball),,1,1,4,15-20,15,Wall Balls (Med Ball)
+wall-sit,Wall Sit,,1,1,3,30-60s,60,Wall Sit
+wall-slide,Wall Slide,,1,1,3,10,45,Wall Slide
+weighted-cable-crunches,Weighted Cable Crunches,,1,1,3,15-20,60,Weighted Cable Crunches
+wide-grip-lat-pulldowns,Wide Grip Lat Pulldowns,,1,1,4,10-15,90,Wide Grip Lat Pulldowns
+worlds-greatest-stretch,World's Greatest Stretch,,1,1,3,5/side,30,World's Greatest Stretch
