@@ -5,6 +5,7 @@ type: dataset
 version: "2026.10.13"
 date-released: "2026-10-13"
 license: CC-BY-4.0
+doi: "10.5281/zenodo.24082645"
 url: "https://depot.fitness/data"
 repository-code: "https://github.com/AlonDrilich/depot-strength-programs"
 authors:

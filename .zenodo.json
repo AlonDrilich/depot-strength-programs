@@ -1,0 +1,25 @@
+{
+  "upload_type": "dataset",
+  "title": "depot.fitness strength-program dataset",
+  "creators": [
+    {
+      "name": "depot.fitness"
+    }
+  ],
+  "description": "The 101 strength-training programs in the depot.fitness library as data: 1,791 prescriptions of sets, reps and rest, program length, training days per week and progression notes. Charts and method: <a href=\"https://depot.fitness/data\">depot.fitness/data</a>.",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "strength training",
+    "workout programs",
+    "sets and reps",
+    "rest periods",
+    "progressive overload"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://depot.fitness/data",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    }
+  ]
+}

@@ -1,5 +1,7 @@
 # depot.fitness strength-program dataset
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24082645.svg)](https://doi.org/10.5281/zenodo.24082645)
+
 The 101 strength-training programs in the [depot.fitness](https://depot.fitness) library, as data: what each one
 prescribes (sets, reps, rest), how long it runs, how many days a week it asks for, and how it says to progress. The
 programs follow documented templates such as 5/3/1, 5×5, push/pull/legs and upper/lower.
